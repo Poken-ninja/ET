@@ -1,5 +1,3 @@
-Yep dawg. For your **GitHub README**, I'd make it clean and study-note style like this:
-
 ````markdown
 # What Is Netcat?
 

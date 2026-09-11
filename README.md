@@ -1,4 +1,4 @@
-````markdown
+
 # What Is Netcat?
 
 ## 1. What Is Netcat?
@@ -9,13 +9,12 @@ It is a **software tool/program** used to create and handle network connections 
 
 A simple way to think about it:
 
-```text
 Terminal / Command Prompt
           ↓
        Netcat (`nc`)
           ↓
     Network Connection
-````
+
 
 Netcat is **not the Command Prompt or Terminal itself**. The terminal is simply the interface we use to run the Netcat program.
 
